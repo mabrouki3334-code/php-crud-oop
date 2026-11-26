@@ -1,0 +1,8 @@
+CREATE DATABASE IF NOT EXISTS gestion_ecole;
+USE gestion_ecole;
+
+CREATE TABLE IF NOT EXISTS etudiants (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    nom VARCHAR(100) NOT NULL,
+    filiere VARCHAR(50) NOT NULL
+);
