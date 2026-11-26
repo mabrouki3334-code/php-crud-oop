@@ -11,3 +11,6 @@ try {
     die("Erreur de connexion : " . $e->getMessage());
 }
 ?>
+
+
+:::::::::::::::::Add database connection:::::::::::::::
