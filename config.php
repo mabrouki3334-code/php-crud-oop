@@ -12,5 +12,3 @@ try {
 }
 ?>
 
-
-:::::::::::::::::Add database connection:::::::::::::::
